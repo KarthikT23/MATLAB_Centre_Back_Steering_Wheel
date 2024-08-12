@@ -45,6 +45,12 @@ d) Update Velocity and Position: Update the angular velocity (omega) and angular
 
 This algorithm essentially simulates the behaviour of the rotational mass-spring-damper system with a proportional controller by iteratively updating the system's state (angular position and velocity) over time based on the defined parameters and the control action computed at each time step.
 
+# Results of Simulation of a rotational mass-spring-damper system with a proportional controller
+
+![image](https://github.com/user-attachments/assets/f3b4518d-c686-4a7f-944f-5fcee80a1ca4)
+
+
+
 
 # Proportional Controller for a DC Motor
 
@@ -87,6 +93,11 @@ g) Update Velocity and Position: Update the angular velocity (omega) and angular
 
 
 7. Plotting: Plot the results of the simulation, showing the motor's angular position, angular velocity, and applied voltage over time.
+
+# Results of Proportional Controller for a DC Motor
+
+![image](https://github.com/user-attachments/assets/b9977c82-404f-4f30-906c-40bbe8ce18eb)
+
 
 
 # Centre - back Steering wheel behavior in MATLAB
